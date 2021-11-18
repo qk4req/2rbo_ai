@@ -1,0 +1,2 @@
+# vi
+humanoid artificial intelligence
